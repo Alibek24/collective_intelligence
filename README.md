@@ -1,0 +1,2 @@
+# collective_intelligence
+examples from collective_intelligence book
